@@ -9,6 +9,7 @@ O primeiro eu desenvolvi  seguindo a aula da imersão dev, e  fui acompanhando o
 https://codepen.io/thiagosilva2/pen/rNwJJZj
 
 # Link do Projeto Pessoal/Atual
+https://thiagosilva2.github.io/ProjetinhoOMentalista/
 
 
 # Aprendizado
